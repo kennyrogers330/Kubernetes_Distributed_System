@@ -8,7 +8,7 @@
     - [x] Build the Docker image and run it as a container on your virtual machine.
     - [x] Ensure that you can access the web application from your host machine.
 2. **Cloud and Kubernetes (k8s):**
-    - [ ] setup and configure Kubernetes on any cloud service provider (AKS, EKS or GKE) of your choice.
+    - [x] setup and configure Kubernetes on any cloud service provider (AKS, EKS or GKE) of your choice.
     - [ ] Deploy your Dockerized web application on the Kubernetes cluster (as a deployment k8s resource).
     - [ ] Assign to your application a load balancer service type, so it can be accessible over the internet.
     - [ ] Implement a rolling update strategy for your application and demonstrate it.
