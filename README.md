@@ -2,11 +2,11 @@
 
 ### Tasks
 1. **Virtualization and Dockerization:**
-    - [ ] Create a virtual machine using any virtualization software (like VirtualBox, VMware, etc.). Install a Linux-based operating system on it.
-    - [ ] Install Docker on the virtual machine.
-    - [ ] Create a Dockerfile that builds an image for a simple web application     that accepts user input – Name, andrewID, course grade etc. (you can use any language stack of your choice).
-    - [ ] Build the Docker image and run it as a container on your virtual machine.
-    - [ ] Ensure that you can access the web application from your host machine.
+    - [x] Create a virtual machine using any virtualization software (like VirtualBox, VMware, etc.). Install a Linux-based operating system on it.
+    - [x] Install Docker on the virtual machine.
+    - [x] Create a Dockerfile that builds an image for a simple web application     that accepts user input – Name, andrewID, course grade etc. (you can use any language stack of your choice).
+    - [x] Build the Docker image and run it as a container on your virtual machine.
+    - [x] Ensure that you can access the web application from your host machine.
 2. **Cloud and Kubernetes (k8s):**
     - [ ] setup and configure Kubernetes on any cloud service provider (AKS, EKS or GKE) of your choice.
     - [ ] Deploy your Dockerized web application on the Kubernetes cluster (as a deployment k8s resource).
